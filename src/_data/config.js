@@ -25,13 +25,13 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Tech Evangelist, CEO at Tagglabs",
+  tagline: "Tech Evangelist and CEO at Tagglabs",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://btjanaka.net/static/btjanaka-1000x1000.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_final.jpeg",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
