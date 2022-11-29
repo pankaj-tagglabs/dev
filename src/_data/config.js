@@ -1,18 +1,18 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Contact Bryon Tjanaka",
+  title: "Contact Pankaj Yadav",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact info for Bryon Tjanaka.",
+  description: "Contact information for Pankaj Yadav.",
 
   // Site URLs.
-  baseUrl: "https://contact.btjanaka.net", // No slash at the end.
-  shortBaseUrl: "contact.btjanaka.net", // Same as baseUrl but without http or https.
+  baseUrl: "https://www.pankajyadav.me/", // No slash at the end.
+  shortBaseUrl: "www.pankajyadav.me", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Bryon Tjanaka",
+  name: "Pankaj Yadav",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "PhD Candidate, ICAROS Lab @ USC",
+  tagline: "Tech Evangelist, CEO at Tagglabs",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
@@ -51,36 +51,29 @@ module.exports = {
   links: [
     {
       name: "Website",
-      desc: "btjanaka.net",
-      url: "https://btjanaka.net",
+      desc: "pankajyadav.me",
+      url: "https://www.pankajyadav.me",
       fa: "fas fa-globe-americas",
       textColor: "text-website",
     },
     {
       name: "Email",
-      desc: "tjanaka@usc.edu",
-      url: "mailto:tjanaka@usc.edu",
+      desc: "mail@pankajyadav.me",
+      url: "mailto:mail@pankajyadav.me",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
-      name: "GitHub",
-      desc: "@btjanaka",
-      url: "https://github.com/btjanaka",
-      fa: "fab fa-github",
-      textColor: "text-black",
-    },
-    {
       name: "Twitter",
-      desc: "@btjanaka",
-      url: "https://twitter.com/btjanaka",
+      desc: "@psy_techie",
+      url: "https://twitter.com/psy_techie",
       fa: "fab fa-twitter",
       textColor: "text-twitter",
     },
     {
       name: "LinkedIn",
-      desc: "@btjanaka",
-      url: "https://www.linkedin.com/in/btjanaka/",
+      desc: "@pankajsinghyadav",
+      url: "https://www.linkedin.com/in/pankajsinghyadav/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
@@ -95,12 +88,6 @@ module.exports = {
       url: "https://btjanaka.net/btjanaka-cv.pdf",
       fa: "fas fa-file-alt",
       textColor: "text-green-500",
-    },
-    {
-      name: "QR Code",
-      url: "/qr",
-      fa: "fas fa-link",
-      textColor: "text-black",
     },
     {
       name: "How to Make This Website",
