@@ -1,18 +1,18 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Contact Pankaj Yadav",
+  title: "Hariom Seth",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact information for Pankaj Yadav.",
+  description: "Contact information for Hariom Seth",
 
   // Site URLs.
-  baseUrl: "https://www.pankajyadav.me/", // No slash at the end.
-  shortBaseUrl: "www.pankajyadav.me", // Same as baseUrl but without http or https.
+  baseUrl: "https://www.hariomseth.com", // No slash at the end.
+  shortBaseUrl: "www.hariomseth.com", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Pankaj Yadav",
+  name: "Hariom Seth",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Tech Evangelist and CEO at Tagglabs",
+  tagline: "Founder & Chief Creative Technologist at Tagglabs",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
@@ -51,29 +51,29 @@ module.exports = {
   links: [
     {
       name: "Website",
-      desc: "pankajyadav.me",
-      url: "https://www.pankajyadav.me",
+      desc: "hariomseth.com",
+      url: "https://www.hariomseth.com",
       fa: "fas fa-globe-americas",
       textColor: "text-website",
     },
     {
       name: "Email",
-      desc: "mail@pankajyadav.me",
-      url: "mailto:mail@pankajyadav.me",
+      desc: "hari@tagglabs.in",
+      url: "mailto:hari@tagglabs.in",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
       name: "Twitter",
-      desc: "@psy_techie",
-      url: "https://twitter.com/psy_techie",
+      desc: "@HariomSeth",
+      url: "https://twitter.com/HariomSeth",
       fa: "fab fa-twitter",
       textColor: "text-twitter",
     },
     {
       name: "LinkedIn",
-      desc: "@pankajsinghyadav",
-      url: "https://www.linkedin.com/in/pankajsinghyadav/",
+      desc: "@shariom",
+      url: "https://www.linkedin.com/in/shariom/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
