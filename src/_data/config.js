@@ -89,11 +89,5 @@ module.exports = {
       fa: "fas fa-file-alt",
       textColor: "text-green-500",
     },
-    {
-      name: "How to Make This Website",
-      url: "https://github.com/btjanaka/contact",
-      fa: "far fa-clipboard",
-      textColor: "text-black",
-    },
   ],
 };
