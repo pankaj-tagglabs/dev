@@ -16,8 +16,8 @@ module.exports = {
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_final.jpeg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_final.jpeg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
   },
 
   // Name pronunciation. Set to null to leave out.
@@ -31,13 +31,13 @@ module.exports = {
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_final.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_final.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
   },
 
   // Links to your other websites.
@@ -78,16 +78,10 @@ module.exports = {
       textColor: "text-linkedin",
     },
     {
-      name: "Resume",
-      url: "https://btjanaka.net/btjanaka-resume.pdf",
+      name: "Save Contact",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/pankajcontact.vcf",
       fa: "fas fa-file-alt",
       textColor: "text-yellow-500",
-    },
-    {
-      name: "CV",
-      url: "https://btjanaka.net/btjanaka-cv.pdf",
-      fa: "fas fa-file-alt",
-      textColor: "text-green-500",
     },
   ],
 };
