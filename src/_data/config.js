@@ -16,8 +16,8 @@ module.exports = {
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://btjanaka.net/static/btjanaka.jpg",
-    small: "https://btjanaka.net/static/btjanaka-1000x1000.jpg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_final.jpeg",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_final.jpeg",
   },
 
   // Name pronunciation. Set to null to leave out.
@@ -37,7 +37,7 @@ module.exports = {
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://btjanaka.net/static/btjanaka-1000x1000.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_final.jpeg",
   },
 
   // Links to your other websites.
