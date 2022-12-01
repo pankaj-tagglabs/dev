@@ -77,6 +77,13 @@ module.exports = {
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
+     {
+      name: "Instagram",
+      desc: "@harioms",
+      url: "https://www.instagram.com/harioms/",
+      fa: "fab fa-instagram",
+      textColor: "text-instagram",
+    },
     {
       name: "Save Contact",
       url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.vcf",
