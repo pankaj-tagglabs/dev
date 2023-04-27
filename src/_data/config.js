@@ -41,7 +41,7 @@ module.exports = {
   },
 
   // Links to your other websites.
-  // - "fa" is the FontAwesome code for the icon; for example, see here:
+  // - "fa" is the FontAwesome code for the icon; for example,see here:
   //   https://fontawesome.com/v5.15/icons/globe-americas
   // - textColor is configured strangely because tailwind needs to pick up on it
   //   and avoid purging the class name -- see here:
