@@ -1,43 +1,43 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Hariom Seth",
+  title: "Dev Chandra",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact information for Hariom Seth",
+  description: "Contact information for Dev Chandra",
 
   // Site URLs.
-  baseUrl: "https://www.hariomseth.com", // No slash at the end.
-  shortBaseUrl: "www.hariomseth.com", // Same as baseUrl but without http or https.
+  baseUrl: "https://www.devchandra.in/", // No slash at the end.
+  shortBaseUrl: "www.devchandra.in", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Hariom Seth",
+  name: "Dev Chandra",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/dev/devphoto.JPG",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/dev/devphoto.JPG",
   },
 
   // Name pronunciation. Set to null to leave out.
-  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.mp3",
+  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/dev/Dev.mp3",
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Founder & Chief Creative Technologist at Tagglabs",
+  tagline: "Designer",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/dev/devphoto.JPG",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/dev/devphoto.JPG",
   },
 
   // Links to your other websites.
@@ -51,42 +51,35 @@ module.exports = {
   links: [
     {
       name: "Website",
-      desc: "hariomseth.com",
-      url: "https://www.hariomseth.com",
+      desc: "devchandra.in",
+      url: "https://www.devchandra.in/",
       fa: "fas fa-globe-americas",
       textColor: "text-website",
     },
     {
       name: "Email",
-      desc: "hari@tagglabs.in",
-      url: "mailto:hari@tagglabs.in",
+      desc: "devchandradesigns@gmail.in",
+      url: "mailto:devchandradesigns@gmail.in",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
-      name: "Twitter",
-      desc: "@HariomSeth",
-      url: "https://twitter.com/HariomSeth",
-      fa: "fab fa-twitter",
-      textColor: "text-twitter",
-    },
-    {
       name: "LinkedIn",
-      desc: "@shariom",
-      url: "https://www.linkedin.com/in/shariom/",
+      desc: "@dev-chandra",
+      url: "https://www.linkedin.com/in/dev-chandra-9853b610a/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
      {
       name: "Instagram",
-      desc: "@harioms",
-      url: "https://www.instagram.com/harioms/",
+      desc: "@devchandradesigns",
+      url: "https://www.instagram.com/devchandradesigns/",
       fa: "fab fa-instagram",
       textColor: "text-instagram",
     },
     {
       name: "Save Contact",
-      url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.vcf",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/dev/dev.vcf",
       fa: "fas fa-file-alt",
       textColor: "text-yellow-500",
     },
